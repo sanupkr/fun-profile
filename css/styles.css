@@ -1,0 +1,89 @@
+ body{
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: verdana,serif;
+}
+
+
+h1{
+  margin-top: 0;
+  font-size: 80px;
+  font-family: 'Sacramento', cursive;
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+  opacity: 50%;
+
+}
+
+
+
+.heading{
+  width :100%;
+  height:800px;
+  background-color: #EAf6f6;
+  position: relative;
+}
+
+.first-box{
+  width:100%;
+  padding-top: 200px;
+}
+
+
+#top-cloud{
+position: absolute;
+top:100px;
+right:350px;
+}
+
+#bottom-cloud{
+position: absolute;
+left:300px;
+
+}
+
+
+#mountain{
+  text-align: center;
+}
+
+.bio-section{
+  padding-top: 50px;
+  height:400px;
+}
+
+
+
+.skill-section{
+  padding-top: 50px;
+  height:400px;
+  background-color: #EAf6f6;
+}
+
+
+.other-skills{
+  padding-top: 50px;
+  height:400px;
+}
+
+
+.contact-me{
+  padding-top: 50px;
+  height:150px;
+  background-color: #EAf6f6;
+}
+
+
+.brand-image{
+  margin: 5px;
+}
+
+#con{
+  text-decoration: underline;
+}
